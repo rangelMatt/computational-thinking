@@ -1,0 +1,2 @@
+# django-snacks
+# computational-thinking
